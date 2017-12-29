@@ -1,0 +1,20 @@
+C:\Users\UEM\Desktop\CSE2A-03\ASCIIcheck\ASCIIcheck\bin\Debug\ASCIIcheck.exe
+C:\Users\UEM\Desktop\CSE2A-03\ASCIIcheck\ASCIIcheck\bin\Debug\ASCIIcheck.pdb
+C:\Users\UEM\Desktop\CSE2A-03\ASCIIcheck\ASCIIcheck\bin\Debug\ASCIIcheck.xml
+C:\Users\UEM\Desktop\CSE2A-03\ASCIIcheck\ASCIIcheck\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UEM\Desktop\CSE2A-03\ASCIIcheck\ASCIIcheck\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\UEM\Desktop\CSE2A-03\ASCIIcheck\ASCIIcheck\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\UEM\Desktop\CSE2A-03\ASCIIcheck\ASCIIcheck\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\UEM\Desktop\CSE2A-03\ASCIIcheck\ASCIIcheck\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\UEM\Desktop\CSE2A-03\ASCIIcheck\ASCIIcheck\obj\x86\Debug\ASCIIcheck.exe
+C:\Users\UEM\Desktop\CSE2A-03\ASCIIcheck\ASCIIcheck\obj\x86\Debug\ASCIIcheck.xml
+C:\Users\UEM\Desktop\CSE2A-03\ASCIIcheck\ASCIIcheck\obj\x86\Debug\ASCIIcheck.pdb
+F:\VB Codes\ASCIIcheck\ASCIIcheck\obj\x86\Debug\ASCIIcheck.exe
+F:\VB Codes\ASCIIcheck\ASCIIcheck\obj\x86\Debug\ASCIIcheck.xml
+F:\VB Codes\ASCIIcheck\ASCIIcheck\obj\x86\Debug\ASCIIcheck.pdb
+F:\VB Codes\ASCIIcheck\ASCIIcheck\bin\Debug\ASCIIcheck.exe
+F:\VB Codes\ASCIIcheck\ASCIIcheck\bin\Debug\ASCIIcheck.pdb
+F:\VB Codes\ASCIIcheck\ASCIIcheck\bin\Debug\ASCIIcheck.xml
+F:\VB Codes\ASCIIcheck\ASCIIcheck\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\VB Codes\ASCIIcheck\ASCIIcheck\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\VB Codes\ASCIIcheck\ASCIIcheck\obj\x86\Debug\ASCIIcheck.vbproj.GenerateResource.Cache
