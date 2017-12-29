@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pallindromef", "Pallindromef\Pallindromef.vbproj", "{160BFA1A-1920-4EA2-BD46-2C6FA27CF975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{160BFA1A-1920-4EA2-BD46-2C6FA27CF975}.Debug|x86.ActiveCfg = Debug|x86
+		{160BFA1A-1920-4EA2-BD46-2C6FA27CF975}.Debug|x86.Build.0 = Debug|x86
+		{160BFA1A-1920-4EA2-BD46-2C6FA27CF975}.Release|x86.ActiveCfg = Release|x86
+		{160BFA1A-1920-4EA2-BD46-2C6FA27CF975}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
